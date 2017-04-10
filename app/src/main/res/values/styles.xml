@@ -1,0 +1,55 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#09BCD4</item>
+        <item name="colorPrimaryDark">#13858E</item>
+        <item name="colorAccent">#525454</item>
+    </style>
+
+    <style name="editText">
+        <item name="android:layout_marginLeft">@dimen/margin_large</item>
+        <item name="android:layout_marginRight">@dimen/margin_large</item>
+        <item name="android:layout_marginBottom">@dimen/margin_xsmall</item>
+        <item name="android:layout_marginTop">@dimen/margin_xsmall</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="android:textSize">@dimen/text_size_edit_text</item>
+        <item name="android:backgroundTint">@color/radioButton</item>
+        <item name="android:inputType">textCapWords</item>
+    </style>
+    
+    <style name="radioButton">
+        <item name="android:textColor">@color/text</item>
+        <item name="android:buttonTint">@color/radioButton</item>
+    </style>
+
+    <style name="checkBox">
+        <item name="android:textColor">@color/text</item>
+        <item name="android:buttonTint">@color/radioButton</item>
+    </style>
+
+    <style name="textView">
+        <item name="android:paddingTop">@dimen/margin_xsmall</item>
+        <item name="android:paddingBottom">@dimen/margin_xsmall</item>
+        <item name="android:textSize">@dimen/text_size_questions</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="questions">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginRight">@dimen/margin_medium</item>
+        <item name="android:layout_marginLeft">@dimen/margin_medium</item>
+        <item name="android:layout_marginTop">@dimen/margin_medium</item>
+        <item name="android:background">@drawable/questions_background</item>
+    </style>
+
+    <style name="button">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/questions_background</item>
+        <item name="android:layout_marginTop">@dimen/margin_medium</item>
+        <item name="android:layout_marginBottom">@dimen/margin_medium</item>
+        <item name="android:textColor">@color/text</item>
+    </style>
+</resources>

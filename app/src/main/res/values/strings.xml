@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">PokerQuiz</string>
+
+    <string name="name_hint">Name</string>
+    <string name="answer_hint">Write down your answer here.</string>
+    <string name="button_text">Submit</string>
+    <string name="img_AA88">Poker hand with two black Aces and two black 8\'s</string>
+    <string name="img_rainbow_flop">Rainbow flop</string>
+
+    <!--Question 1-->
+    <string name="question_1">In AC/DC\'s \"The Jack\", which card did she deal him first?</string>
+    <string name="q1a1wrong">Ace</string>
+    <string name="q1a2wrong">King</string>
+    <string name="q1a3right">Queen</string>
+    <string name="q1a4wrong">Jack</string>
+
+    <!--Question 2-->
+    <string name="question_2">Which of these are a commonly used alternative names for Pocket Jacks? (Multiple answers can be right)</string>
+    <string name="q2a1wrong">Gorillas</string>
+    <string name="q2a2right">Fishhooks</string>
+    <string name="q2a3wrong">Cowboys</string>
+    <string name="q2a4right">Brothers</string>
+
+    <!--Question 3-->
+    <string name="question_3">How is this hand famously called?</string>
+    <string name="q3a1right">Deadman\'s hand</string>
+
+    <!--Question 4-->
+    <string name="question_4">Which Las Vegas casino is currently the host of World Series Of Poker (WSOP)?</string>
+    <string name="q4a1right">The Rio</string>
+    <string name="q4a2wrong">The Bellagio</string>
+    <string name="q4a3wrong">The Venetian</string>
+    <string name="q4a4wrong">Caesar\'s Palace</string>
+
+    <!--Question 5-->
+    <string name="question_5">In a full ring poker game (8 to 10 players), which of these is the worst starting hand?</string>
+    <string name="q5a1wrong">Pair of 2\'s</string>
+    <string name="q5a2wrong">23 off suit</string>
+    <string name="q5a3right">72 off suit</string>
+    <string name="q5a4wrong">A9 suited</string>
+
+    <!--Question 6-->
+    <string name="question_6">What does UTG stand for in poker?</string>
+    <string name="q6a1right">Under the gun</string>
+
+    <!--Question 7-->
+    <string name="question_7">Who has the most World Series Of Poker bracelets?</string>
+    <string name="q7a1wrong">Phil Ivey</string>
+    <string name="q7a2wrong">Doyle Brunson</string>
+    <string name="q7a3wrong">Daniel Negreanu</string>
+    <string name="q7a4right">Phil Hellmuth</string>
+
+    <!--Question 8-->
+    <string name="question_8">Which of these flops (first three community cards) is \"Rainbow\"?</string>
+    <string name="q8a1wrong">1</string>
+    <string name="q8a2right">2</string>
+    <string name="q8a3wrong">3</string>
+
+    <!--Question 9-->
+    <string name="question_9">What does it mean when a tournament is played \"Hand-for-hand\"?</string>
+    <string name="q9a1wrong">When just two players are left in a hand after everyone else has folded</string>
+    <string name="q9a2right">One hand must be completed at each table before the next hand is dealt</string>
+    <string name="q9a3wrong">Following the deal, players are allowed to exchange their hand for a new one if they wish</string>
+
+</resources>

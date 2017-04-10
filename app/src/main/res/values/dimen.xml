@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_large">20dp</dimen>
+    <dimen name="margin_medium">12dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_xsmall">6dp</dimen>
+    <dimen name="text_size_questions">18sp</dimen>
+    <dimen name="text_size_edit_text">14sp</dimen>
+
+</resources>
